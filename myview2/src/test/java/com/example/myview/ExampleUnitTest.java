@@ -1,4 +1,4 @@
-package com.xianghui.myview;
+package com.example.myview;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.xianghui.myview;
+package com.example.myview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
