@@ -9,7 +9,7 @@
 
     <com.example.myview.MyTopBar
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         custom:leftBackground="@drawable/blue_button"
         custom:leftText="Back"
         custom:leftTextColor="#FFFFFF"
