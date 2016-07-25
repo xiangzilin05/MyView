@@ -1,1 +1,1 @@
-include ':myview2'
+include ':myview2', ':mylistview'
